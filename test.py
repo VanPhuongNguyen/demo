@@ -16,3 +16,4 @@ class Tamgiac:
 
 a = Tamgiac()
 a.XacDinhTamGiac()
+print('OK')
